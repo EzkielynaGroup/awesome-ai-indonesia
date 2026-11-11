@@ -142,21 +142,19 @@ Entri disusun menurut abjad. Harga dan metode pembayaran dapat berubah, cek hala
 
 ## MCP dan Agen AI
 
+- [Awesome MCP Indonesia](https://github.com/EzkielynaGroup/awesome-mcp-indonesia#readme) - Daftar lengkap server MCP untuk Indonesia dan panduan pemasangan berbahasa Indonesia.
 - [bmkg-api](https://github.com/dhanyyudi/bmkg-api) - REST API dan server MCP buatan komunitas untuk prakiraan cuaca, gempa, dan peringatan dini BMKG.
 - [BPS MCP Server](https://github.com/setiapam/bps-mcp-server) - Server MCP untuk data statistik BPS, perlu kunci Web API BPS.
 - [DOKU MCP Server](https://developers.doku.com/accept-payments/doku-mcp-server) - Server MCP dari DOKU untuk membuat tautan pembayaran, QRIS, virtual account, dan cek transaksi.
 - [Ezkielyna Image MCP](https://github.com/EzkielynaGroup/ezkielyna-image-mcp) - Server MCP untuk membuat dan mengedit gambar dari file lokal di Claude Desktop, Claude Code, Cursor, dan OpenCode.
 - [indonesia-civic-stack](https://github.com/suryast/indonesia-civic-stack) - SDK Python dan server MCP untuk belasan portal data publik Indonesia seperti BPOM, BPJPH, OJK, dan BMKG.
 - [kbbi-mcp](https://github.com/gaato/kbbi-mcp) - Server MCP buatan komunitas untuk mencari kata di KBBI.
-- [xendit-mcp](https://github.com/mrslbt/xendit-mcp) - Server MCP buatan komunitas untuk API pembayaran Xendit, tidak berafiliasi dengan Xendit.
-<!-- NOT YET PUBLIC: enable each line below when the repo is public (remove the comment markers), keep alphabetical order.
 - [mcp-bmkg](https://github.com/EzkielynaGroup/mcp-bmkg) - Server MCP tanpa API key untuk gempa terkini dan prakiraan cuaca tingkat desa dari data terbuka BMKG.
 - [mcp-hari-libur-indonesia](https://github.com/EzkielynaGroup/mcp-hari-libur-indonesia) - Server MCP offline untuk hari libur nasional dan cuti bersama sesuai SKB 3 Menteri, plus hitung hari kerja.
 - [mcp-qris](https://github.com/EzkielynaGroup/mcp-qris) - Server MCP offline untuk membaca, memvalidasi, menambah nominal, dan merender payload QRIS.
-- [mcp-rupiah](https://github.com/EzkielynaGroup/mcp-rupiah) - Server MCP untuk utilitas Rupiah. TODO at publish: copy the final one-line description from the repo README.
+- [mcp-rupiah](https://github.com/EzkielynaGroup/mcp-rupiah) - Server MCP offline untuk terbilang, format dan baca nominal Rupiah, serta kalkulator PPN sesuai aturan 2025+.
 - [mcp-wilayah-indonesia](https://github.com/EzkielynaGroup/mcp-wilayah-indonesia) - Server MCP offline untuk kode wilayah Kemendagri dari provinsi sampai desa.
-- [Awesome MCP Indonesia](https://github.com/EzkielynaGroup/awesome-mcp-indonesia#readme) - Daftar lengkap server MCP untuk Indonesia dan panduan pemasangan berbahasa Indonesia.
--->
+- [xendit-mcp](https://github.com/mrslbt/xendit-mcp) - Server MCP buatan komunitas untuk API pembayaran Xendit, tidak berafiliasi dengan Xendit.
 
 ## Otomasi
 
